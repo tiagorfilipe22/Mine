@@ -118,13 +118,17 @@ body {
     justify-content: center;
     align-items: center;
     background: rgb(255,255,255);
-    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(0,167,217,1) 100%);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(163,189,133,1) 100%);
 }
 
 .right-col h1{
     background: -webkit-linear-gradient(90deg, rgba(0,47,75,1) 0%, rgba(0,167,217,1) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+
+.right-col p {
+  font-size: 20px;
 }
 .left-col {
 
