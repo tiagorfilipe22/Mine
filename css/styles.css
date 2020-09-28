@@ -44,7 +44,7 @@ h2 {
 }
 
 .contact h2 {
-  color: #f3747b;
+  color: #002f4b;
 }
 
 h3 {
@@ -111,7 +111,7 @@ body {
 }
 
 .left-col, .right-col {
-    color: #241f36;
+    color: #002f4b;
     text-align: center;
     height: 90vh;
     display: flex;
@@ -121,8 +121,10 @@ body {
     background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(0,167,217,1) 100%);
 }
 
-.right-col{
-
+.right-col h1{
+    background: -webkit-linear-gradient(90deg, rgba(0,47,75,1) 0%, rgba(0,167,217,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 .left-col {
 
@@ -136,7 +138,7 @@ body {
 
 .scroll {
   text-align: center;
-  color: #564a7a;
+  color: #002f4b;
   font-size: 24px;
 }
 
