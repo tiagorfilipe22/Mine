@@ -8,7 +8,7 @@ nav {
   left: 0;
   right: 0;
   font-family: 'Secular One', sans-serif;
-  font-size: 24px;
+  font-size: 22px;
   background-color: rgba(78,78,78,0.5);
 }
 
@@ -118,7 +118,7 @@ body {
     justify-content: center;
     align-items: center;
     background: rgb(255,255,255);
-    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(78,78,78,1) 50%, rgba(0,167,217,1) 85%);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(0,167,217,1) 100%);
 }
 
 .right-col{
@@ -171,7 +171,7 @@ img{
   max-width: 100%;
 }
 footer{
-  background-color: #f4979c;
+  background-color: #737373;
   min-height: 220px;
   background-image: url('../img/socialmedia.svg');
   background-repeat: no-repeat;
