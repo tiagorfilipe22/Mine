@@ -131,6 +131,14 @@ body {
 .right-col p {
   font-size: 20px;
 }
+
+.right-col img {
+    border-radius: 1000px;
+    /*width: 800px;*/
+    max-width: 50%;
+    margin: 0;
+    max-width: 75%;
+}
 .left-col {
 
 }
