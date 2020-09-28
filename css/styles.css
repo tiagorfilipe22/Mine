@@ -116,7 +116,6 @@ body {
     text-align: center;
     height: 90vh;
     display: flex;
-    justify-content: center;
     align-items: center;
     background: rgb(255,255,255);
     background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(163,189,133,1) 100%);
@@ -134,13 +133,17 @@ body {
 
 .right-col img {
     border-radius: 1000px;
-    /*width: 800px;*/
-    max-width: 50%;
+    /*width: 450px;*/
     margin: 0;
     max-width: 75%;
+    border: 5px solid #285a86;
 }
 .left-col {
 
+}
+
+.right-col{
+  
 }
 
 .top-container {
