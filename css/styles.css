@@ -11,6 +11,7 @@ nav {
   font-family: 'Secular One', sans-serif;
   font-size: 22px;
   background-color: rgba(78,78,78,0.5);
+  margin: 0;
 
 }
 
@@ -147,13 +148,7 @@ body {
     max-width: 75%;
     border: 5px solid #285a86;
 }
-.left-col {
 
-}
-
-.right-col{
-
-}
 
 .top-container {
   width: 500px;
